@@ -1,14 +1,14 @@
-#httpnand
+# httpnand
 
 httpnand is a tool that allows you to dump your nand over http.
 It was designed to be used for dumping the nand of the Nintendo Switch but it should be able
 to dump any /dev device on linux
 
-####Requirements
+#### Requirements
 * Linux running on your Nintendo Switch
 * NodeJS and NPM
 
-####Usage
+#### Usage
 To use httpnand you just clone to project on your Nintendo Switch, cd into the directory and run
 ```
 npm start
